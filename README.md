@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/codeByRaman/leetcode_Problems/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/codeByRaman/leetcode_Problems/tree/master/0048-rotate-image) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/codeByRaman/leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/codeByRaman/leetcode_Problems/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/codeByRaman/leetcode_Problems/tree/master/0015-3sum) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/codeByRaman/leetcode_Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
