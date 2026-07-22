@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/codeByRaman/leetcode_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/codeByRaman/leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codeByRaman/leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/codeByRaman/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codeByRaman/leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/codeByRaman/leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/codeByRaman/leetcode_Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codeByRaman/leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String Matching
 |  |
 | ------- |
