@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/codeByRaman/leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codeByRaman/leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/codeByRaman/leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codeByRaman/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/codeByRaman/leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
