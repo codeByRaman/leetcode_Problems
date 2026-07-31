@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/codeByRaman/leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
