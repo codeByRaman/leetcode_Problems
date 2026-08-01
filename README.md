@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/codeByRaman/leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/codeByRaman/leetcode_Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/codeByRaman/leetcode_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/codeByRaman/leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codeByRaman/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/codeByRaman/leetcode_Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/codeByRaman/leetcode_Problems/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/codeByRaman/leetcode_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
