@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codeByRaman/leetcode_Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/codeByRaman/leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codeByRaman/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codeByRaman/leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/codeByRaman/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeByRaman/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codeByRaman/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeByRaman/leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/codeByRaman/leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/codeByRaman/leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/codeByRaman/leetcode_Problems/tree/master/0704-binary-search) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/codeByRaman/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeByRaman/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
