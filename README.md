@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/codeByRaman/leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/codeByRaman/leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Matrix
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
+| [3731-find-missing-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
