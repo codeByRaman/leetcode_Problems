@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/codeByRaman/leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/codeByRaman/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -218,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/codeByRaman/leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
