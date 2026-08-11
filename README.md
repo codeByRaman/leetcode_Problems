@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/codeByRaman/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/codeByRaman/leetcode_Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/codeByRaman/leetcode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/codeByRaman/leetcode_Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/codeByRaman/leetcode_Problems/tree/master/0231-power-of-two) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/codeByRaman/leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/codeByRaman/leetcode_Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/codeByRaman/leetcode_Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/codeByRaman/leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/codeByRaman/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0344-reverse-string) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/codeByRaman/leetcode_Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0191-number-of-1-bits) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/codeByRaman/leetcode_Problems/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/codeByRaman/leetcode_Problems/tree/master/0867-transpose-matrix) |
 ## Tree
 |  |
