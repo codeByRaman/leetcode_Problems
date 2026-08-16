@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/codeByRaman/leetcode_Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/codeByRaman/leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codeByRaman/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
