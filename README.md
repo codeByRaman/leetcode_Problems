@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/codeByRaman/leetcode_Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/codeByRaman/leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codeByRaman/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/codeByRaman/leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/codeByRaman/leetcode_Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/codeByRaman/leetcode_Problems/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
