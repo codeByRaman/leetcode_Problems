@@ -10,27 +10,18 @@ class Solution {
 
         char[] str3 = new char[n+m];
 
-        while (i < n && j < m){
-            if (k % 2 == 0){
+        while ( i < n || j < m){
+            if (i < n){
                 str3[k] = str1[i];
-                i ++;
-            }else{
-                str3[k] = str2[j];
-                j ++;
+                k++;
+                i++;
             }
-            k ++;
-        }
 
-        while (i < n){
-            str3[k] = str1[i];
-            i ++;
-            k ++;
-        }
-
-        while (j < m){
-            str3[k] = str2[j];
-            j ++;
-            k ++;
+            if( j < m){
+                str3[k] = str2[j];
+                k++;
+                j++;
+            }
         }
 
         return new String(str3);
