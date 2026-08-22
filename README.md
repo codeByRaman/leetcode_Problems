@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/codeByRaman/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/codeByRaman/leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/codeByRaman/leetcode_Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/codeByRaman/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/codeByRaman/leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codeByRaman/leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/codeByRaman/leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/codeByRaman/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/codeByRaman/leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 ## Bit Manipulation
 |  |
