@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/codeByRaman/leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/codeByRaman/leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/codeByRaman/leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
