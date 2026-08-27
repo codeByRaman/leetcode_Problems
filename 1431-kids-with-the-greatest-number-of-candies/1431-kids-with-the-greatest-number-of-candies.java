@@ -5,10 +5,8 @@ class Solution {
 
         int max = Integer.MIN_VALUE;
 
-        for (int i = 0; i < n; i++){
-            if (candies[i] > max){
-                max = candies[i];
-            }
+        for (int num : candies){
+            max = Math.max(num,max);
         }
 
         for (int i = 0 ; i < n; i++){
