@@ -9,13 +9,9 @@ class Solution {
             max = Math.max(num,max);
         }
 
-        for (int i = 0 ; i < n; i++){
-            if (candies[i] + extraCandies >= max){
-                list.add(true);
-            }
-            else{
-                list.add(false);
-            }
+        for (int num : candies){
+            if (num + extraCandies >= max) list.add(true);
+            else list.add(false);
         }
         return list;
     }
