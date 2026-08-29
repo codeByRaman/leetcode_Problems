@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/codeByRaman/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/codeByRaman/leetcode_Problems/tree/master/1768-merge-strings-alternately) |
+| [2351-first-letter-to-appear-twice](https://github.com/codeByRaman/leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/codeByRaman/leetcode_Problems/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/codeByRaman/leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/codeByRaman/leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/codeByRaman/leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/codeByRaman/leetcode_Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/codeByRaman/leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Number Theory
 |  |
 | ------- |
