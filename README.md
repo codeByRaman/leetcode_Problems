@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/codeByRaman/leetcode_Problems/tree/master/1672-richest-customer-wealth) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/codeByRaman/leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/codeByRaman/leetcode_Problems/tree/master/0410-split-array-largest-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Simulation
 |  |
