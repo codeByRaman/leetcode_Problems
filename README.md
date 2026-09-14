@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/codeByRaman/leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codeByRaman/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/codeByRaman/leetcode_Problems/tree/master/0836-rectangle-overlap) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/codeByRaman/leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/codeByRaman/leetcode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -308,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/codeByRaman/leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/codeByRaman/leetcode_Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
