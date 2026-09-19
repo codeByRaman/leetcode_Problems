@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/codeByRaman/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/codeByRaman/leetcode_Problems/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/codeByRaman/leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/codeByRaman/leetcode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/codeByRaman/leetcode_Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/codeByRaman/leetcode_Problems/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1929-concatenation-of-array) |
 ## Tree
 |  |
 | ------- |
