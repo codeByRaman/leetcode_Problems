@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/codeByRaman/leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/codeByRaman/leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codeByRaman/leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/codeByRaman/leetcode_Problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/codeByRaman/leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
