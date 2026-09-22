@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/codeByRaman/leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/codeByRaman/leetcode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/codeByRaman/leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/codeByRaman/leetcode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/codeByRaman/leetcode_Problems/tree/master/3870-count-commas-in-range) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/codeByRaman/leetcode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codeByRaman/leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/codeByRaman/leetcode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/codeByRaman/leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/codeByRaman/leetcode_Problems/tree/master/3731-find-missing-elements) |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/codeByRaman/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
