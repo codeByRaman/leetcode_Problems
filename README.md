@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeByRaman/leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codeByRaman/leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/codeByRaman/leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/codeByRaman/leetcode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codeByRaman/leetcode_Problems/tree/master/0283-move-zeroes) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/codeByRaman/leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/codeByRaman/leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/codeByRaman/leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
