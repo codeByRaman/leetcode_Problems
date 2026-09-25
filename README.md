@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codeByRaman/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/codeByRaman/leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/codeByRaman/leetcode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/codeByRaman/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/codeByRaman/leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/codeByRaman/leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/codeByRaman/leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/codeByRaman/leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/codeByRaman/leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/codeByRaman/leetcode_Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/codeByRaman/leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/codeByRaman/leetcode_Problems/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/codeByRaman/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/codeByRaman/leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/codeByRaman/leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/codeByRaman/leetcode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
@@ -371,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
