@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/codeByRaman/leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/codeByRaman/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/codeByRaman/leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/codeByRaman/leetcode_Problems/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/codeByRaman/leetcode_Problems/tree/master/0088-merge-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/codeByRaman/leetcode_Problems/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/codeByRaman/leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codeByRaman/leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/codeByRaman/leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/codeByRaman/leetcode_Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/codeByRaman/leetcode_Problems/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/codeByRaman/leetcode_Problems/tree/master/0867-transpose-matrix) |
